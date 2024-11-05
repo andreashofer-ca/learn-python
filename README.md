@@ -3,5 +3,5 @@ Python course
 for Josh and Audrey
 
 Use 
-[Copilot at Microsoft](https://copilot.microsoft.com)
+<a href="https://copilot.microsoft.com" target="_blank">Copilot at Microsoft</a>
 for help.
