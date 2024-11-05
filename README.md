@@ -2,5 +2,6 @@
 Python course
 for Josh and Audrey
 
-[Copilot at Microsoft](https://copilot.microsoft.com).
-
+Use 
+[Copilot at Microsoft](https://copilot.microsoft.com)
+for help.
